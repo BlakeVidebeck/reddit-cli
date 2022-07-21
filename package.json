@@ -19,7 +19,7 @@
 		"@types/yargs": "^17.0.10"
 	},
 	"repository": {
-		"url": "git://github.com/BlakeVidebeck/reddit-cli"
+		"url": "git://github.com/blakevidebeck/reddit-cli"
 	},
-	"homepage": "https://github.com/BlakeVidebeck/reddit-cli#readme"
+	"homepage": "https://github.com/blakevidebeck/reddit-cli#readme"
 }
