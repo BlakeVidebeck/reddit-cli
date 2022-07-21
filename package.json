@@ -1,7 +1,7 @@
 {
 	"name": "@blakevidebeck/blake-reddit-cli",
-	"version": "1.0.2",
-	"main": "index.js",
+	"version": "1.0.3",
+	"main": "reddit.mjs",
 	"scripts": {},
 	"bin": {
 		"reddit": "reddit.mjs"
@@ -19,7 +19,8 @@
 		"@types/yargs": "^17.0.10"
 	},
 	"repository": {
-		"url": "git://github.com/blakevidebeck/reddit-cli"
+		"type": "git",
+		"url": "git+https://github.com/blakevidebeck/reddit-cli.git"
 	},
 	"homepage": "https://github.com/blakevidebeck/reddit-cli#readme"
 }
