@@ -20,7 +20,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/blakevidebeck/reddit-cli.git"
+		"url": "https://github.com/blakevidebeck/reddit-cli.git"
 	},
 	"homepage": "https://github.com/blakevidebeck/reddit-cli#readme"
 }
